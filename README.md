@@ -2,7 +2,7 @@
 
 **"Coding is my craft, problem-solving is my game."**
 
-I'm a Full Stack Developer focused on **Java, Spring Boot,** and **Angular**. Passionate about building real-world solutions using scalable architectures and RESTful APIs, I enjoy continuous learning and growth in both tech and personal development.
+I’m Rushikesh Kushare, a Computer Science graduate from India with a strong passion for programming and building innovative tech solutions. I love exploring the logic behind systems and diving deep into new technologies. My focus is on back-end development with Java, Spring Boot, and Angular to create high-performance, scalable applications. I thrive on learning and improving my skills, aiming to stay productive and contribute meaningfully to the tech community.
 
 ---
 
