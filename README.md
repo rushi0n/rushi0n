@@ -32,7 +32,9 @@ I'm a Full Stack Developer focused on **Java, Spring Boot,** and **Angular**. Pa
 
 ### 📊 GitHub Insights
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rushi0n&show_icons=true)
+![Profile Views](https://komarev.com/ghpvc/?username=rushi0n&color=blue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rushi0n&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rushi0n&layout=compact&theme=radical)
 
 ---
 
