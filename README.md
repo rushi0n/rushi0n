@@ -1,6 +1,6 @@
-# Welcome
+# Hello,
 
-I'm Rushikesh Kushare a Computer Science graduate from India with a strong passion for programming and building innovative tech solutions. I love exploring the logic behind systems and diving deep into new technologies. My focus is on back-end development with Java, Spring Boot, and Angular to create high-performance, scalable applications. I thrive on learning and improving my skills, aiming to stay productive and contribute meaningfully to the tech community.
+I’m Rushikesh Kushare, a Computer Science graduate from India. I have a deep passion for programming and enjoy exploring innovative tech solutions. Driven by curiosity, I love understanding the logic behind systems and continuously improving my skills. My goal is to build high-performance applications using Java, Spring Boot, and Angular, while staying productive and consistently learning. I strive to stay ahead by embracing new technologies and contributing meaningfully to the development community.
 ---
 
 ### 💻 My Development Toolkit
