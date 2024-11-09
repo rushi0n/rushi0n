@@ -1,9 +1,10 @@
-# Hello,
+# Hello 
 
-I’m Rushikesh Kushare, a Computer Science graduate from India. I have a deep passion for programming and enjoy exploring innovative tech solutions. Driven by curiosity, I love understanding the logic behind systems and continuously improving my skills. My goal is to build high-performance applications using Java, Spring Boot, and Angular, while staying productive and consistently learning. I strive to stay ahead by embracing new technologies and contributing meaningfully to the development community.
+ I’m **Rushikesh Kushare**, a **Computer Science graduate** from India. I have a deep passion for **programming** and enjoy exploring innovative **tech solutions**. Driven by curiosity, I love understanding the **logic behind systems** and continuously improving my skills. My goal is to build **high-performance applications** using **Java**, **Spring Boot**, and **Angular**, while staying productive and consistently learning. I strive to stay ahead by embracing new technologies and contributing meaningfully to the development community.
+
 ---
 
-### 💻 My Development Toolkit
+### 💻 Tech Stack
 
 - **Languages**: Java, Python, TypeScript
 - **Frameworks**: Spring Boot, Angular
@@ -11,9 +12,9 @@ I’m Rushikesh Kushare, a Computer Science graduate from India. I have a deep p
 
 ---
 
-### 🎯 My Goals
+### 🎯 Goals
 
-- Improve backend architecture skills
+- Enhance back-end architecture skills
 - Contribute to open-source projects
 - Build scalable, innovative solutions
 
@@ -21,9 +22,9 @@ I’m Rushikesh Kushare, a Computer Science graduate from India. I have a deep p
 
 ### 🔥 Featured Projects
 
-- **FarmFocus**: Smart farming management with Angular
-- **Employee Management System**: Employee data management with Spring Boot
-- **EdUTrack**: Student progress tracking with Angular
+- **FarmFocus**: Smart farming management system (Angular)
+- **Employee Management System**: Employee data management platform (Spring Boot)
+- **EdUTrack**: Student progress tracking (Angular)
 
 ---
 
@@ -35,7 +36,7 @@ I’m Rushikesh Kushare, a Computer Science graduate from India. I have a deep p
 
 ---
 
-### 📫 Let's Connect!
+### 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/rushikesh-kushare-781375312)
 - [Website](http://rushi.is-a.dev)
@@ -44,4 +45,4 @@ I’m Rushikesh Kushare, a Computer Science graduate from India. I have a deep p
 
 ### 💬 Contributions & Activity
 
-- **Contribute to Open-Source**: Actively participating in open-source projects to collaborate and learn from other developers.
+- **Open-Source Contributor**: Actively engaging in open-source projects to collaborate and learn with the global developer community.
