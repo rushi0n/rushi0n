@@ -1,38 +1,42 @@
-# Hello, World! 👋 I'm Rushikesh Kushare
+# Hi there, I'm Rushikesh Kushare 👋
 
-_"Coding is my craft, problem-solving is my game."_
+**"Coding is my craft, problem-solving is my game."**
 
-I'm a **Full Stack Developer in training** with a strong focus on **Java, Spring Boot, and Angular**. I’m passionate about turning innovative ideas into real-world solutions, exploring RESTful APIs, and building scalable backend architectures.
-
----
-
-## 🛠️ My Development Toolkit
-- **Languages**: Java, Python, TypeScript
-- **Frameworks**: Spring Boot, Angular
-- **Technologies**: REST APIs, Microservices, Scalable Architectures
-- **Additional Skills**: Git, SQL, Cloud Basics
-- **Fun Fact**: Baking enthusiast—croissants and chocolate lava cakes are my specialties!
+I'm a Full Stack Developer focused on **Java, Spring Boot,** and **Angular**. Passionate about building real-world solutions using scalable architectures and RESTful APIs, I enjoy continuous learning and growth in both tech and personal development.
 
 ---
 
-## 🚀 Featured Projects
-- **FarmFocus** – A smart farming app built with Angular
-- **Employee Management System** – Comprehensive employee management using Spring Boot
-- **EdUTrack** – Angular-powered student management platform
+### 💻 My Development Toolkit
+
+- **Languages:** Java, Python, TypeScript
+- **Frameworks:** Spring Boot, Angular
+- **Technologies:** REST APIs, Cloud, Microservices, Git, SQL
 
 ---
 
-## 📊 GitHub Insights
-![Profile Views](https://komarev.com/ghpvc/?username=rushi0n&color=blue)
-![Rushikesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rushi0n&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rushi0n&layout=compact&theme=radical)
+### 🎯 My Goals & Aspirations
+
+- Constantly improving my skills in backend development and exploring new technologies like cloud computing and AI.
+- Striving to build scalable, high-performance systems that make a meaningful impact.
+- Contributing to the open-source community and collaborating with developers worldwide.
 
 ---
 
-## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/rushikeshkushare/)](https://www.linkedin.com/in/rushikeshkushare/)  
-[![GitHub](https://img.shields.io/badge/GitHub-rushi0n-blue?style=flat-square&logo=github)](https://github.com/rushi0n)
+### 🔥 Featured Projects
+
+- **FarmFocus** – A smart farming app built with Angular for better farm management.
+- **Employee Management System** – A comprehensive Spring Boot app for managing employee data.
+- **EdUTrack** – An Angular-powered platform to manage and track student progress.
 
 ---
 
-### Thank you for visiting! Let’s build something amazing together. 🚀
+### 📊 GitHub Insights
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rushi0n&show_icons=true)
+
+---
+
+### 📫 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/rushikesh-kushare-781375312)
+- [Website](http://rushi.is-a.dev)
