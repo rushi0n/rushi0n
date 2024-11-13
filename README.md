@@ -6,7 +6,7 @@
 
 ### 💻 Tech Stack
 
-- **Languages**: Java, Python, TypeScript
+- **Languages**: HTML, CSS, Java, TypeScript
 - **Frameworks**: Spring Boot, Angular
 - **Technologies**: REST APIs, Microservices, Git, SQL, Cloud
 
